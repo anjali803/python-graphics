@@ -9,3 +9,5 @@ image = Image.open('img.png')
 plt.imshow(image)
 plt.axis('off')
 plt.show()
+
+

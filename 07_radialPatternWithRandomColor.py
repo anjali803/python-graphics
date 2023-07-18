@@ -12,4 +12,4 @@ def radialPatternWtihRandomColor(t,x,y,shape,color):
     t.end_fill()
 t=Turtle()
 t.speed(1)
-radialPatternWtihRandomColor(t,100,100,"square","yellow")
+radialPatternWtihRandomColor(t,30,30,"square","yellow")

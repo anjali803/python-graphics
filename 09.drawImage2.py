@@ -1,4 +1,4 @@
-from images import Image
+from PIL import Image
 image = Image(150,150)
 blue= (0,0,255)
 y=image.getHeight()//2
